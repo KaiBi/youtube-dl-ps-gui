@@ -6,3 +6,4 @@ Just a small script for my family which is uncomfortable with the windows shell 
 - Invokes youtube-dl with only the video url as parameter.
 - Checks for updates once per day.
 - Uses German language.
+- Windows only (downloads and executes youtube-dl.exe)
